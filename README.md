@@ -64,6 +64,9 @@ Vue de la base de données montrant les tweets bruts et les scores de sentiment 
 ![alt text](ressources/Screenshot%20from%202026-01-08%2014-28-31.png) 
 ![alt text](ressources/Screenshot%20from%202026-01-08%2014-06-33.png)
 
+les logs:
+![Uploading image.png…]()
+
 ---
 
 ## Installation et Démarrage
