@@ -187,4 +187,6 @@ crooked_version/
 
 ## Author
 
+SENBATI Nizar
+
 Developed as part of the Big Data Clusters & Distributed Systems module for 2025/2026
