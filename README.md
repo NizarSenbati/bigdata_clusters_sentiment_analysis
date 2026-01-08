@@ -1,6 +1,6 @@
 # Social Sentinel: Analyse de Sentiment en Temps Réel
 
-- **Module:** Clusters Big Data & Systèmes Distribués
+- **Module:** Clusters Big Data
 - **Année:** 2025/2026
 - **Auteur:** SENBATI Nizar
 
