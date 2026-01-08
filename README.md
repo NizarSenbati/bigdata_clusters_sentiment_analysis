@@ -2,7 +2,7 @@
 
 - **Module:** Clusters Big Data & Systèmes Distribués
 - **Année:** 2025/2026
-- **Auteur:** [Votre Nom]
+- **Auteur:** SENBATI Nizar
 
 ---
 
