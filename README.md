@@ -43,18 +43,18 @@ Le pipeline de données suit le flux suivant :
 Cette vue montre le flux de données en temps réel. On observe les volumes de posts par marque et une courbe de sentiment stable.
 
 > *courbes évolutifs:*
-![courbes évolutifs](ressources/newplot.png)
+![courbes évolutifs](ressources/evolution.png)
 
 ### 2. Détection de Crise (Simulation)
 
 Lorsqu'une marque (ex: Maroc Telecom) subit une vague de commentaires négatifs, le système déclenche une alerte visuelle rouge et notifie l'opérateur en moins de 5 secondes.
 
 > *chute de la réputation: courbe en rouge "orange maroc":*
-![chute de réputation](ressources/image.png)
+![chute de réputation](ressources/crisis.png)
 
 Dashboard en sa totalité:
 
-![dashboard](ressources/image-1.png)
+![dashboard](ressources/dashboard.png)
 
 ### 3. Preuve de Stockage (Cassandra)
 
@@ -65,7 +65,7 @@ Vue de la base de données montrant les tweets bruts et les scores de sentiment 
 ![alt text](ressources/Screenshot%20from%202026-01-08%2014-06-33.png)
 
 les logs:
-![Uploading image.png…]()
+![log file](ressources/logs.png)
 
 ---
 
